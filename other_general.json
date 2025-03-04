@@ -1,0 +1,28 @@
+{
+  "campaignTitle": "General Digital Growth Plan",
+  "campaignObjective": "Improve brand awareness and customer engagement.",
+  "generalIntroText": "This campaign helps businesses establish an online presence with a structured content marketing approach.",
+  "targetAudience": {
+    "industry": "Varied",
+    "businessType": "B2B or B2C",
+    "commonChallenges": [
+      "Unclear marketing strategy",
+      "Need for stronger customer engagement"
+    ]
+  },
+  "campaignPhases": [
+    {
+      "phase": 1,
+      "title": "Phase 1 - Establishing Social Media Presence",
+      "goal": "Develop a consistent content schedule.",
+      "strategies": [
+        {
+          "strategyTitle": "Foundational Social Media Content",
+          "description": "Create posts that introduce the business and its value.",
+          "platforms": ["Facebook", "Instagram", "LinkedIn"],
+          "estimatedTimeframe": "Weeks 1-2"
+        }
+      ]
+    }
+  ]
+}
