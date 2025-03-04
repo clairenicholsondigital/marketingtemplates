@@ -1,0 +1,86 @@
+{
+  "campaignTitle": "Growing Your Local Business Online",
+  "campaignObjective": "Increase brand awareness, drive foot traffic, and grow an engaged local audience.",
+  "generalIntroText": "This campaign helps local businesses build a digital presence, attract customers, and drive conversions through organic content marketing.",
+  "targetAudience": {
+    "industry": "Local service providers, retail stores, restaurants, wellness businesses.",
+    "businessType": "B2C",
+    "commonChallenges": [
+      "Low local visibility",
+      "Struggling with digital marketing",
+      "Competing with larger brands"
+    ]
+  },
+  "keyMessaging": {
+    "coreMessage": "Your go-to local business for [service/product].",
+    "secondaryMessages": [
+      "Supporting small businesses strengthens communities.",
+      "Convenience, quality, and trust—all in your neighbourhood."
+    ],
+    "brandTone": "Friendly, community-driven, approachable."
+  },
+  "campaignPhases": [
+    {
+      "phase": 1,
+      "title": "Phase 1 - Establishing Social Media Presence",
+      "goal": "Boost local awareness through social media posts and community engagement.",
+      "strategies": [
+        {
+          "strategyTitle": "Daily Social Media Posts",
+          "description": "Share behind-the-scenes content, customer stories, and promotions.",
+          "platforms": ["Facebook", "Instagram", "Google My Business"],
+          "estimatedTimeframe": "Weeks 1-2"
+        },
+        {
+          "strategyTitle": "Local Engagement",
+          "description": "Participate in local Facebook groups and tag customers in posts.",
+          "platforms": ["Facebook Groups", "Nextdoor"],
+          "estimatedTimeframe": "Ongoing"
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "title": "Phase 2 - Setting Up a Blog",
+      "goal": "Establish credibility and improve search rankings through local SEO content.",
+      "strategies": [
+        {
+          "strategyTitle": "Writing Local-Focused Blog Posts",
+          "description": "Create content that highlights community involvement, local events, and customer success stories.",
+          "platforms": ["Company Blog", "Google My Business"],
+          "estimatedTimeframe": "Weeks 3-4"
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "title": "Phase 3 - Email Marketing & Cold Outreach",
+      "goal": "Convert engaged followers into loyal customers.",
+      "strategies": [
+        {
+          "strategyTitle": "Exclusive Offers via Email",
+          "description": "Send local promotions, discounts, and loyalty rewards.",
+          "platforms": ["Email", "WhatsApp Business"],
+          "estimatedTimeframe": "Weeks 5-6"
+        }
+      ]
+    }
+  ],
+  "performanceMetrics": {
+    "KPIs": [
+      "Increase in social media followers",
+      "Growth in local searches",
+      "Customer engagement via comments & messages"
+    ],
+    "trackingTools": ["Google My Business Insights", "Facebook Analytics"]
+  },
+  "callToAction": {
+    "primaryCTA": "Visit us in-store / Book an appointment / Order online",
+    "secondaryCTAs": [
+      "Follow for updates",
+      "Sign up for exclusive deals",
+      "Leave a review"
+    ]
+  },
+  "generalEndingText": "Continue engaging your local audience with valuable content and strong community connections."
+}
