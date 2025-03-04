@@ -1,0 +1,29 @@
+{
+  "campaignTitle": "B2B Growth & Lead Nurturing Strategy",
+  "campaignObjective": "Strengthen brand credibility, improve engagement, and drive high-value conversions.",
+  "generalIntroText": "This campaign helps B2B companies create long-term engagement through educational content and strategic outreach.",
+  "targetAudience": {
+    "industry": "Professional services, manufacturing, logistics, finance.",
+    "businessType": "B2B",
+    "commonChallenges": [
+      "Longer sales cycles",
+      "Low engagement on digital channels",
+      "Need for stronger brand positioning"
+    ]
+  },
+  "campaignPhases": [
+    {
+      "phase": 1,
+      "title": "Phase 1 - Establishing Social Media Presence",
+      "goal": "Build brand awareness through social media engagement.",
+      "strategies": [
+        {
+          "strategyTitle": "Case Study Highlights",
+          "description": "Share real-world results and client success stories.",
+          "platforms": ["LinkedIn"],
+          "estimatedTimeframe": "Weeks 1-2"
+        }
+      ]
+    }
+  ]
+}
