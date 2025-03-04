@@ -1,0 +1,63 @@
+{
+  "campaignTitle": "Positioning as a Science & Tech Thought Leader",
+  "campaignObjective": "Enhance industry credibility, increase engagement with professionals, and generate high-value leads.",
+  "generalIntroText": "This campaign focuses on content-driven authority-building through research-based blogs, industry discussions, and professional networking.",
+  "targetAudience": {
+    "industry": "Biotech, life sciences, AI, SaaS, deep tech.",
+    "businessType": "B2B, academic partnerships.",
+    "commonChallenges": [
+      "Need to explain complex products/services",
+      "Difficulty reaching decision-makers",
+      "Limited awareness in the market"
+    ]
+  },
+  "keyMessaging": {
+    "coreMessage": "Bringing innovation to [specific industry].",
+    "secondaryMessages": [
+      "Backed by data, driven by discovery.",
+      "Empowering [industry] with smarter solutions."
+    ],
+    "brandTone": "Authoritative, data-driven, educational."
+  },
+  "campaignPhases": [
+    {
+      "phase": 1,
+      "title": "Phase 1 - Establishing Social Media Presence",
+      "goal": "Engage professionals and position as an industry leader.",
+      "strategies": [
+        {
+          "strategyTitle": "Thought Leadership Posts",
+          "description": "Share insights from research, product updates, and industry trends.",
+          "platforms": ["LinkedIn", "Twitter"],
+          "estimatedTimeframe": "Weeks 1-2"
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "title": "Phase 2 - Setting Up a Blog",
+      "goal": "Publish in-depth articles to educate and inform.",
+      "strategies": [
+        {
+          "strategyTitle": "Industry Research Articles",
+          "description": "Create detailed guides and whitepapers.",
+          "platforms": ["Company Blog", "ResearchGate"],
+          "estimatedTimeframe": "Weeks 3-4"
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "title": "Phase 3 - Email Marketing & Cold Outreach",
+      "goal": "Engage professionals and decision-makers.",
+      "strategies": [
+        {
+          "strategyTitle": "Personalized Email Sequences",
+          "description": "Send targeted emails to researchers and business leaders.",
+          "platforms": ["Email"],
+          "estimatedTimeframe": "Weeks 5-6"
+        }
+      ]
+    }
+  ]
+}
